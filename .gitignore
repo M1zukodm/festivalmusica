@@ -7,9 +7,4 @@ package-lock.json
 # Dependencias de Node.js 
 node_modules/
 
-# Directorios de build 
-/build
 
-# Archivos de Sass compilados 
-/css/*.css
-/css/*.css.map
